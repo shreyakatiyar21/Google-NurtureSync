@@ -25,3 +25,8 @@ The Contacts section helps users manage important contacts, such as healthcare p
 ## Role
 
 As the **Team Lead**, I managed a team of 4 developers, overseeing the project's timeline, task assignments, and overall development workflow. I coordinated the integration of features, ensured timely delivery, and maintained high-quality standards throughout development.
+
+## Video Demo
+'''bash
+https://drive.google.com/file/d/1_IK0VmK9urnUxARq8y70ipu_Z6MRQ4mO/view?usp=sharing
+'''
